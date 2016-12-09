@@ -1,0 +1,52 @@
+! Base16 Gruvbox
+! Scheme: Gordon Chiam (https://github.com/gchiam)
+
+! URxvt*tintColor:                      color
+! URxvt*fadeColor:                      color
+
+URxvt*background:                     #282828
+URxvt*foreground:                     #d5c4a1
+URxvt*cursorColor:                    #d5c4a1
+
+! URxvt*colorBD:                        color
+! URxvt*colorIT:                        color
+! URxvt*colorUL:                        color
+! URxvt*colorRV:                        color
+! URxvt*underlineColor:                 color
+URxvt*scrollColor:                    #d5c4a1
+! URxvt*troughColor:                    color
+URxvt*highlightColor:                 #7c6f54
+URxvt*highlightTextColor:             #bdae93
+! URxvt*cursorColor2:                   color
+! URxvt*pointerColor:                   color
+! URxvt*pointerColor2:                  color
+! URxvt*borderColor:                    color
+! URxvt*tab-bg:                         colour
+! URxvt*tab-fg:                         colour
+! URxvt*tabbar-bg:                      colour
+! URxvt*tabbar-fg:                      colour
+
+URxvt*color0:                         #282828
+URxvt*color1:                         #cc241d
+URxvt*color2:                         #98971a
+URxvt*color3:                         #d79921
+URxvt*color4:                         #458588
+URxvt*color5:                         #b16286
+URxvt*color6:                         #689d6a
+URxvt*color7:                         #d5c4a1
+URxvt*color8:                         #ebdbb2
+URxvt*color9:                         #cc241d
+URxvt*color10:                        #98971a
+URxvt*color11:                        #d79921
+URxvt*color12:                        #458588
+URxvt*color13:                        #b16286
+URxvt*color14:                        #689d6a
+URxvt*color15:                        #fbf1c7
+
+! 256 color space
+URxvt*color16:                        #d65d0e
+URxvt*color17:                        #a89984
+URxvt*color18:                        #504945
+URxvt*color19:                        #7c6f54
+URxvt*color20:                        #bdae93
+URxvt*color21:                        #ebdbb2

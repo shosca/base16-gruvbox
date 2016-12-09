@@ -1,0 +1,49 @@
+/**
+ * Base16 Gruvbox Dark
+ *
+ * @author Gordon Chiam (https://github.com/gchiam)
+ *
+ * Rainbow template by Jan T. Sott (https://github.com/idleberg/)
+ * Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+ */
+pre {
+    background-color: #282828;
+    word-wrap: break-word;
+    margin: 0px;
+    padding: 10px;
+    color: #fbf1c7;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+pre, code {
+    font-family: 'Monaco', courier, monospace;
+}
+
+pre .comment {
+    color: #ebdbb2;
+}
+
+pre .variable.global, pre .variable.class, pre .variable.instance {
+    color: #cc241d; /* red */
+}
+
+pre .constant.numeric, pre .constant.language, pre .constant.hex-color, pre .keyword.unit {
+    color: #d65d0e; /* orange */
+}
+
+pre .constant, pre .entity, pre .entity.class, pre .support {
+    color: #d79921; /* yellow */
+}
+
+pre .constant.symbol, pre .string {
+    color: #98971a; /* green */
+}
+
+pre .entity.function, pre .support.css-property, pre .selector {
+    color: #458588; /* blue */
+}
+
+pre .keyword, pre .storage {
+    color: #b16286; /* purple */
+}

@@ -1,0 +1,33 @@
+/*
+
+    Name:       Base16 Gruvbox Light
+    Author:     Gordon Chiam (https://github.com/gchiam)
+
+    CodeMirror template by Jan T. Sott (https://github.com/idleberg)
+    Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/base16)
+
+*/
+
+.cm-s-base16-gruvbox-light.CodeMirror {background: #fbf1c7; color: #504945;}
+.cm-s-base16-gruvbox-light div.CodeMirror-selected {background: #ebdbb2 !important;}
+.cm-s-base16-gruvbox-light .CodeMirror-gutters {background: #fbf1c7; border-right: 0px;}
+.cm-s-base16-gruvbox-light .CodeMirror-linenumber {color: #bdae93;}
+.cm-s-base16-gruvbox-light .CodeMirror-cursor {border-left: 1px solid #ebdbb2 !important;}
+
+.cm-s-base16-gruvbox-light span.cm-comment {color: #a89984;}
+.cm-s-base16-gruvbox-light span.cm-atom {color: #b16286;}
+.cm-s-base16-gruvbox-light span.cm-number {color: #b16286;}
+
+.cm-s-base16-gruvbox-light span.cm-property, .cm-s-base16-gruvbox-light span.cm-attribute {color: #98971a;}
+.cm-s-base16-gruvbox-light span.cm-keyword {color: #cc241d;}
+.cm-s-base16-gruvbox-light span.cm-string {color: #d79921;}
+
+.cm-s-base16-gruvbox-light span.cm-variable {color: #98971a;}
+.cm-s-base16-gruvbox-light span.cm-variable-2 {color: #458588;}
+.cm-s-base16-gruvbox-light span.cm-def {color: #d65d0e;}
+.cm-s-base16-gruvbox-light span.cm-error {background: #cc241d; color: #ebdbb2;}
+.cm-s-base16-gruvbox-light span.cm-bracket {color: #504945;}
+.cm-s-base16-gruvbox-light span.cm-tag {color: #cc241d;}
+.cm-s-base16-gruvbox-light span.cm-link {color: #b16286;}
+
+.cm-s-base16-gruvbox-light .CodeMirror-matchingbracket { text-decoration: underline; color: white !important;}

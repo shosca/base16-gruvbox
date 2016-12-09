@@ -1,0 +1,6 @@
+# dmenu template
+# Base16 Gruvbox Dark, by Gordon Chiam (https://github.com/gchiam)
+# template by Matt Parnell, @parnmatt
+
+# add this as an alias, or however you wish to run dmenu
+dmenu -nb '282828' -nf 'ebdbb2' -sb '458588' -sf '282828'

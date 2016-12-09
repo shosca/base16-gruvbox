@@ -1,0 +1,23 @@
+/* Base16 Gruvbox
+Scheme: Gordon Chiam (https://github.com/gchiam) */
+
+table.sourceCode, tr.sourceCode, td.sourceCode, table.sourceCode pre
+{ margin: 0; padding: 0; border: 0; vertical-align: baseline; border: none; background-color: #282828; color: #d5c4a1 }
+td.nums { text-align: right; padding-right: 5px; padding-left: 5px; background-color: #504945; }
+td.sourceCode { padding-left: 5px; }
+code.sourceCode { background-color: #282828; }
+pre.sourceCode { background-color: #282828; line-height: 125% }
+td.nums pre { background-color: #504945; line-height: 125% }
+code.sourceCode span.kw { color: #458588; font-weight: bold } /* Keyword */
+code.sourceCode span.dt { color: #b16286} /* Keyword.Type */
+code.sourceCode span.dv { color: #d65d0e } /* Literal.Number.Integer */
+code.sourceCode span.bn { color: #d65d0e } /* Literal.Number.Hex */
+code.sourceCode span.fl { color: #d65d0e } /* Literal.Number.Float */
+code.sourceCode span.ch { color: #98971a} /* Literal.String.Char */
+code.sourceCode span.st { color: #98971a } /* Literal.String */
+code.sourceCode span.co { color: #ebdbb2 } /* Comment */
+code.sourceCode span.ot { color: #a89984 } /* Comment.Preproc */
+code.sourceCode span.al { color: #b16286 } /* Generic.Error */
+code.sourceCode span.fu { color: #d79921 } /* Name.Function */
+code.sourceCode span.re { color: #689d6a}
+code.sourceCode span.er { color: #cc241d; border: 1px solid #b16286 } /* Error */

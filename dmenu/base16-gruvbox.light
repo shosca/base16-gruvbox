@@ -1,0 +1,6 @@
+# dmenu template
+# Base16 Gruvbox Light, by Gordon Chiam (https://github.com/gchiam)
+# template by Matt Parnell, @parnmatt
+
+# add this as an alias, or however you wish to run dmenu
+dmenu -nb 'd5c4a1' -nf '7c6f54' -sb '458588' -sf '504945'

@@ -1,0 +1,22 @@
+Windows Registry Editor Version 5.00
+
+; Base16 Gruvbox (https://github.com/chriskempson/base16)
+; Scheme: Gordon Chiam (https://github.com/gchiam)
+
+[HKEY_CURRENT_USER\Console]
+"ColorTable00"=dword:00282828
+"ColorTable01"=dword:00888545
+"ColorTable02"=dword:001a9798
+"ColorTable03"=dword:006a9d68
+"ColorTable04"=dword:000e5dd6
+"ColorTable05"=dword:008662b1
+"ColorTable06"=dword:002199d7
+"ColorTable07"=dword:0093aebd
+"ColorTable08"=dword:00b2dbeb
+"ColorTable09"=dword:00888545
+"ColorTable10"=dword:001a9798
+"ColorTable11"=dword:006a9d68
+"ColorTable12"=dword:001d24cc
+"ColorTable13"=dword:008499a8
+"ColorTable14"=dword:002199d7
+"ColorTable15"=dword:00c7f1fb

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE palette PUBLIC "-//Kreative//DTD ResplendentColor 1.0//EN" "rcpx.dtd">
+<palette name="Base16 Gruvbox">
+	<colors ordered="ordered">
+		<rgb r= "40" g= "40" b= "40"/>
+		<rgb r= "80" g= "73" b= "69"/>
+		<rgb r="124" g="111" b= "84"/>
+		<rgb r="235" g="219" b="178"/>
+		<rgb r="189" g="174" b="147"/>
+		<rgb r="213" g="196" b="161"/>
+		<rgb r="235" g="219" b="178"/>
+		<rgb r="251" g="241" b="199"/>
+		<rgb r="204" g= "36" b= "29"/>
+		<rgb r="214" g= "93" b= "14"/>
+		<rgb r="215" g="153" b= "33"/>
+		<rgb r="152" g="151" b= "26"/>
+		<rgb r="104" g="157" b="106"/>
+		<rgb r= "69" g="133" b="136"/>
+		<rgb r="177" g= "98" b="134"/>
+		<rgb r="168" g="153" b="132"/>
+	</colors>
+	<layout>
+		<oriented>
+			<horizontal>
+				<column>
+					<row><range start="0" end= "8"/></row>
+					<row><range start="8" end="16"/></row>
+				</column>
+			</horizontal>
+			<square>
+				<column>
+					<row><range start= "0" end= "4"/></row>
+					<row><range start= "4" end= "8"/></row>
+					<row><range start= "8" end="12"/></row>
+					<row><range start="12" end="16"/></row>
+				</column>
+			</square>
+			<vertical>
+				<row>
+					<column><range start="0" end= "8"/></column>
+					<column><range start="8" end="16"/></column>
+				</row>
+			</vertical>
+		</oriented>
+	</layout>
+</palette>

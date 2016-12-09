@@ -1,0 +1,20 @@
+GIMP Palette
+Name: Base16 Gruvbox
+Columns: 16
+#
+  40  40  40	base00
+  80  73  69	base01
+  124  111  84	base02
+  235  219  178	base03
+  189  174  147	base04
+  213  196  161	base05
+  235  219  178	base06
+  251  241  199	base07
+  204  36  29	base08
+  214  93  14	base09
+  215  153  33	base0A
+  152  151  26	base0B
+  104  157  106	base0C
+  69  133  136	base0D
+  177  98  134	base0E
+  168  153  132	base0F
